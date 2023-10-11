@@ -13,6 +13,7 @@ you can choose whichever action want to perfrom. I reccommend building a list of
 the employee class will ask for name, age, salary, etc. should be simple.
 
 Screenshots:
+
 <img width="446" alt="Screenshot 2023-10-10 at 19 41 56" src="https://github.com/Yagna-Patel/Assignment-2/assets/123590214/d1e57161-1901-47c7-bf23-8851302b4fc7">
 <img width="454" alt="Screenshot 2023-10-10 at 19 41 43" src="https://github.com/Yagna-Patel/Assignment-2/assets/123590214/068c5852-9ad6-48d3-84f0-a96d458796b8">
 <img width="287" alt="Screenshot 2023-10-10 at 19 40 12" src="https://github.com/Yagna-Patel/Assignment-2/assets/123590214/466b60c6-d200-4bbb-8309-5f9d74daead7">
